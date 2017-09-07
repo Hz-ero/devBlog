@@ -8,3 +8,4 @@
 - [Redux简化模版代码与异步处理](https://github.com/Hz-ero/devBlog/issues/9)
 - [Webpack 开发总结](https://github.com/Hz-ero/devBlog/issues/10)
 - [Redux 集成 immutable](https://github.com/Hz-ero/devBlog/issues/11)
+- [React单元测试：Jest + Enzyme](https://github.com/Hz-ero/devBlog/issues/12)
